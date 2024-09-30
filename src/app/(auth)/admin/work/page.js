@@ -1,7 +1,7 @@
 export default function AdminWork() {
     return (
       <>
-        asdf work home
+        asdf work home from
       </>
     );
 }
